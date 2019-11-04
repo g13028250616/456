@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.itheima:code-template:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/Java/Maven/apache-maven-3.3.9/Repositories/com/itheima/code-template/1.0-SNAPSHOT/code-template-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/Java/Maven/apache-maven-3.3.9/Repositories/com/itheima/code-template/1.0-SNAPSHOT/code-template-1.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/Java/Maven/apache-maven-3.3.9/Repositories/com/itheima/code-template/1.0-SNAPSHOT/code-template-1.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
